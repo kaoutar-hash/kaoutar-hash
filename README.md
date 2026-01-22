@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy reading, practicing yoga, and learning n
 
 - **Business Analysis** - Simplilearn
   https://simpli-web.app.link/e/0P1x7L0N8Zb
-- **Python for official statistics** (./Certificate_Python_for_Official_Statistics.pdf)
+- **Python for official statistics**(https:github.com/kaoutar-hash.kaoutar-hash/raw/main/./Certificate_Python_for_Official_Statistics.pdf)
 
 ## 🌱 Currently Learning 
 
