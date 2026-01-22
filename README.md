@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/www.linkedin.com/in/kaoutar-boushab-5988033a6
+  <a href="https://kaoutar-boushab-5988033a6/in/www.linkedin.com/in/www.linkedin.com/in/
 "><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:kawtarboushab6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
