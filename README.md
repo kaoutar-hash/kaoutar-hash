@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm an aspiring busines/data analyst passionate about learning new data skills. I enjoy working with data and statistics.
+I'm an aspiring business/data analyst passionate about learning new data skills. I enjoy working with data and statistics.
 I focus on clraning and analyzing data, building dashboards, and extracting actionable insights to support business decisions.
 When I'm not working with data, I enjoy reading, practicing yoga, and learning new skills.
 
