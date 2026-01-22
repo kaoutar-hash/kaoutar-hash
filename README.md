@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy reading, practicing yoga, and learning n
 
 - **Business Analysis** - Simplilearn
   https://simpli-web.app.link/e/0P1x7L0N8Zb
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Python for official statistics** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
